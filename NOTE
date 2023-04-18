@@ -1,0 +1,4 @@
+To proceed, please create a web application with CodeIgniter Framework with the following function: 
++ Registration form with email, name, password, and a profile picture upload. 
++ A login page and landing page showing the submitted information. 
++ A proper forgot password feature 
